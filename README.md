@@ -1,7 +1,7 @@
-#CEEW Website Documentation
-##ceew.in
+# CEEW Website Documentation
+## ceew.in
 
-##Index
+## Index
 - website updates
 - best practices to update content(piecewise)
 - issue tracker
