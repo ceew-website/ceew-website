@@ -1,5 +1,6 @@
 # CEEW Website Documentation
-## ceew.in
+## ceew.in website content updation
+[Blogs](https://github.com/ceew-website/ceew-website/blob/main/content-types/blog.md)
 
 ## Index
 - website updates
