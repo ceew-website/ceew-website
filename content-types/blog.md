@@ -1,8 +1,10 @@
 # Blog
 
+## Key Points
 Keep the Title and Sub Title in TitleCase format. 
 Sub Title has a limit of 120 characters.
-Blog Image - Please ensure that these banner images are in 1660*500 resolution(Figma recommendation) and also compress the image(iloveimg.com/compress-image recommended).	
+Blog Image - Please ensure that these banner images are in 1660x500 resolution(Figma recommendation) and also compress the image(iloveimg.com/compress-image recommended).
+Convert the image into .jpg format to reduce the size.
 Whenever hyperlinking any text in the body of the blog, add 'target=_blank' in the hyperlink so the link opens up in a new tab.
 
 ## Process of Publishing a Blog
