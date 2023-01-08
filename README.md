@@ -1,6 +1,6 @@
 # CEEW Website Documentation
 ## ceew.in website content updation
-[Blogs](https://github.com/ceew-website/ceew-website/blob/main/content-types/blog.md)
+[Blogs](https://github.com/ceew-website/ceew-website/blob/main/content-types/blog.md) \
 [Publication](https://github.com/ceew-website/ceew-website/blob/main/content-types/publications.md)
 
 
